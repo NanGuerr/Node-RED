@@ -1,0 +1,16 @@
+
+[
+    {
+        "id": "modbus_read_coils",
+        "type": "modbus-getter",
+        "z": "flow_1",
+        "name": "Leer 4 Coils",
+        "showStatusActivities": false,
+        "showErrors": false,
+        "unitid": "1",
+        "dataType": "Coil",
+        "adr": "0",
+        "quantity": "4",
+        "server": "modbus_server_config"
+    }
+]
