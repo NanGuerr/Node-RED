@@ -1,0 +1,12 @@
+# Dependencias
+node_modules/
+
+# Archivos de configuración y credenciales de Node-RED
+*settings.js
+*.config.json
+flow_cred.json
+.env
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
