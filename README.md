@@ -3,7 +3,7 @@
 
 # 🏭 Proyecto Node-RED: [Nombre del Proyecto]
 ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)
+
 
 Repositorio de flujos, subflows y configuraciones en Node-RED que incluyen integración con protocolos industriales (Modbus), procesamiento y análisis de datos en archivos CSV, y paneles HMI interactivos para control de planta.
 
