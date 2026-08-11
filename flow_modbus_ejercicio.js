@@ -1,4 +1,3 @@
-javascript:
 [
     {
         "id": "modbus_read_coils",
