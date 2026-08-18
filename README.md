@@ -1,18 +1,8 @@
-# Node-RED
-
-
-# 🏭 Proyecto Node-RED: [Nombre del Proyecto]
+# 🏭 Repositorio de Flows de Node-RED
 ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)
 
 
-Repositorio de flujos, subflows y configuraciones en Node-RED que incluyen integración con protocolos industriales (Modbus), procesamiento y análisis de datos en archivos CSV, y paneles HMI interactivos para control de planta.
-
-
----
-
-# Repositorio de Flows de Node-RED
-
-Este repositorio contiene una colección de flujos, subflows y configuraciones desarrolladas en **Node-RED**. El objetivo principal es la implementación de soluciones para automatización industrial, incluyendo el procesamiento de datos y la creación de interfaces HMI.
+Este repositorio contiene una colección de flujos, subflows y configuraciones desarrolladas en **Node-RED**. El objetivo principal es la implementación de soluciones para automatización industrial con flujos, subflows y configuraciones en Node-RED que incluyen integración con protocolos industriales (Modbus), procesamiento y análisis de datos en archivos CSV, y paneles HMI interactivos para control de planta.
 
 ## 🚀 Características principales
 
