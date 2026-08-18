@@ -7,11 +7,10 @@
 
 Repositorio de flujos, subflows y configuraciones en Node-RED que incluyen integración con protocolos industriales (Modbus), procesamiento y análisis de datos en archivos CSV, y paneles HMI interactivos para control de planta.
 
-Aquí tienes una propuesta de archivo `README.md` estructurado, profesional y fácil de leer para tu repositorio en GitHub.
 
 ---
 
-# Repositorio de Proyectos Node-RED
+# Repositorio de Flows de Node-RED
 
 Este repositorio contiene una colección de flujos, subflows y configuraciones desarrolladas en **Node-RED**. El objetivo principal es la implementación de soluciones para automatización industrial, incluyendo el procesamiento de datos y la creación de interfaces HMI.
 
